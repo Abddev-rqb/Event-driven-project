@@ -1,0 +1,49 @@
+############################
+# Terraform
+############################
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfstate.*
+*.tfvars
+*.tfvars.json
+
+############################
+# Terraform crash logs
+############################
+crash.log
+crash.*.log
+
+############################
+# Maven / Java
+############################
+app/target/
+*.class
+*.jar
+*.war
+*.ear
+
+############################
+# OS files
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# IDE / Editor
+############################
+.idea/
+.vscode/
+*.iml
+
+############################
+# Logs
+############################
+*.log
+
+############################
+# Secrets / Credentials
+############################
+.env
+.env.*
+.aws/
