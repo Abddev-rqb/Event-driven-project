@@ -1,4 +1,6 @@
+com/example/NewOrderHandler.class
 com/example/LambdaHandler.class
 com/example/Order.class
 com/example/OrderStatus.class
+com/example/ReserveInventoryHandler.class
 com/example/OrderRequest.class
