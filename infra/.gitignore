@@ -7,6 +7,7 @@ terraform.tfstate.backup
 terraform.tfstate.*
 *.tfvars
 *.tfvars.json
+*.xopp
 
 ############################
 # Terraform crash logs
