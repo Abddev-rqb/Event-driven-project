@@ -4,6 +4,8 @@ This repository represents the transformation of a messy, tightly coupled event-
 
 The project demonstrates how to design and manage an event-driven serverless system using modular Terraform, environment isolation (dev / prod), reusable IAM patterns, artifact-driven Lambda deployments via S3, and clean Maven-based Java services. Every module is intentionally structured to support scalability, maintainability, and team collaboration, mirroring how modern product-based organizations build cloud-native platforms.
 
-![Terraform management](infra/image.png)
+![Terraform management](infra/images/image.png)
 
-Below are the architecture diagrams that visually explain how the components interact and how the system scales in a real production environment.
+Below are the architecture diagram that visually explain how the components interact and how the system scales in a real production environment.
+
+![Terraform management](infra/images/arch_img.png)
